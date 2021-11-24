@@ -1,0 +1,46 @@
+{
+  "name": "SolPandasss #6",
+  "symbol": "SP",
+  "description": "cute pandas are lost and you need to help them find a home",
+  "seller_fee_basis_points": 0,
+  "image": "6.png",
+  "external_url": "",
+  "edition": 6,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Electric_Indigo"
+    },
+    {
+      "trait_type": "skin",
+      "value": "Australian_Mint_panda"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "calm_panda"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "crying"
+    },
+    {
+      "trait_type": "hat",
+      "value": "chef's_hat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "AJmMVao2JamwZFSmgJtJBxGAzMbSCmpxV77uZ47BjiL2",
+        "share": 100
+      }
+    ]
+  }
+}
